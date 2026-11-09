@@ -1,0 +1,16 @@
+{
+  "name": "İstanbul Dijital İkiz — 3B Rehber Haritası",
+  "short_name": "İstanbul 3B",
+  "description": "Yer şekilleri, tarih ve coğrafyayı gösteren çevrimdışı 3B rehber haritası.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0e1a26",
+  "theme_color": "#0e1a26",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
